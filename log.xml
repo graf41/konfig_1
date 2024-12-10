@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<log><entry><user>user1</user><command>ls</command><output>test_filesystem</output><time>2024-12-10T09:28:12.605901</time></entry><entry><user>user1</user><command>cd test_filesystem</command><output /><time>2024-12-10T09:28:25.411060</time></entry><entry><user>user1</user><command>ls</command><output>file1.txt
+subdir
+example.txt
+dir1</output><time>2024-12-10T09:28:31.734020</time></entry><entry><user>user1</user><command>unam</command><output>Команда не найдена: unam</output><time>2024-12-10T09:28:37.724605</time></entry><entry><user>user1</user><command>uname</command><output>Linux</output><time>2024-12-10T09:28:39.620985</time></entry><entry><user>user1</user><command>uniq subfile.txt</command><output>Файл не найден: subfile.txt</output><time>2024-12-10T09:28:52.007354</time></entry><entry><user>user1</user><command>exit</command><output>Выход...</output><time>2024-12-10T09:28:58.871976</time></entry></log>

@@ -670,6 +670,9 @@ exit: завершает работу эмулятора.
 ## 2.Запуск тестов:
 ```python -m unittest discover tests```
 
+<img width="613" alt="Снимок экрана 2024-12-11 в 11 32 23" src="https://github.com/user-attachments/assets/ec0261da-4ec8-4fb5-b5be-5257caa21cfb">
+
+
 # Примеры использования
 ## Запуск эмулятора
 ```python emulator.py user1 myhost test_filesystem.zip log.xml```
